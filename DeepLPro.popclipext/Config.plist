@@ -9,8 +9,6 @@
                 <string>Translate by DeepL</string>
                 <key>Image File</key>
                 <string>deepl.png</string>
-                <key>Regular Expression</key>
-                <string>(?s)^.{1,1900}$</string>
                 <key>AppleScript File</key>
                 <string>launch_deepl.applescript</string>
                 <key>Before</key>
@@ -22,9 +20,9 @@
         <key>Extension Description</key>
         <string>Open DeepL Translator in a web browser with the selected text.</string>
         <key>Extension Identifier</key>
-        <string>jp.caph.popclip.extension.deepl-translator-app</string>
+        <string>jp.caph.popclip.extension.deepl-pro-translator-app</string>
         <key>Extension Name</key>
-        <string>DeepL Translator</string>
+        <string>DeepL Pro Translator</string>
         <key>Extension Image File</key>
         <string>deepl.png</string>
         <key>Apps</key>
