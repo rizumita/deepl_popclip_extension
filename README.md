@@ -1,2 +1,3 @@
-# deepl_popclip_extension
-DeepL Translator PopClip Extension
+# DeepL PopClip Extension
+
+Extension for translating from PopClip to DeepL Mac app.
