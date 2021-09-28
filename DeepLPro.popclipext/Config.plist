@@ -10,11 +10,7 @@
                 <key>Image File</key>
                 <string>deepl.png</string>
                 <key>AppleScript File</key>
-                <string>launch_deepl.applescript</string>
-                <key>Before</key>
-                <string>copy</string>
-                <key>After</key>
-                <string>copy</string>
+                <string>deepl.applescript</string>
             </dict>
         </array>
         <key>Extension Description</key>
@@ -29,9 +25,11 @@
         <array>
             <dict>
                 <key>Bundle Identifier</key>
-                <string>com.linguee.DeepLCopyTranslator</string>
+                <string>jp.linguee.DeepLCopyTranslator</string>
                 <key>Name</key>
                 <string>DeepL Translator</string>
+                <key>Check Installed</key>
+                <true/>
             </dict>
         </array>
         <key>Requirements</key>

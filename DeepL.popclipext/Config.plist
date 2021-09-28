@@ -12,11 +12,7 @@
                 <key>Regular Expression</key>
                 <string>(?s)^.{1,1900}$</string>
                 <key>AppleScript File</key>
-                <string>launch_deepl.applescript</string>
-                <key>Before</key>
-                <string>copy</string>
-                <key>After</key>
-                <string>copy</string>
+                <string>deepl.applescript</string>
             </dict>
         </array>
         <key>Extension Description</key>
@@ -34,6 +30,8 @@
                 <string>com.linguee.DeepLCopyTranslator</string>
                 <key>Name</key>
                 <string>DeepL Translator</string>
+                <key>Check Installed</key>
+                <true/>
             </dict>
         </array>
         <key>Requirements</key>
