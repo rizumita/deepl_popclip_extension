@@ -25,9 +25,9 @@
         <array>
             <dict>
                 <key>Bundle Identifier</key>
-                <string>jp.linguee.DeepLCopyTranslator</string>
+                <string>com.linguee.DeepLCopyTranslator</string>
                 <key>Name</key>
-                <string>DeepL Translator</string>
+                <string>DeepL</string>
                 <key>Check Installed</key>
                 <true/>
                 <key>Link</key>
