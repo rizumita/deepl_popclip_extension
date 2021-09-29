@@ -32,6 +32,8 @@
                 <string>DeepL Translator</string>
                 <key>Check Installed</key>
                 <true/>
+                <key>Link</key>
+                <string>https://www.deepl.com/ja/app/</string>
             </dict>
         </array>
         <key>Requirements</key>
